@@ -1,4 +1,4 @@
-import { fetchingPhotos } from "./modules/fetch";
+import { fetchingPhotos } from "./modules/fetch.js";
 
 fetchingPhotos();
 
